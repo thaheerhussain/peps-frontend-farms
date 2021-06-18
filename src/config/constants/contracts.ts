@@ -1,10 +1,10 @@
 export default {
   cake: {
-    56: '0xa93659490d4e73365B4d66c014A2704a60106Bd2',
+    56: '0x0288D3E353fE2299F11eA2c2e1696b4A648eCC07',
     97: '',
   },
   masterChef: {
-    56: '0xA1da5936A3699f9b17f7aBe4FDbf37eb8EcF920C',
+    56: '0x05a8ba2DEf87f8AdaF223Edcd04F7Fc82eA6aee8',
     97: '',
   },
   wbnb: {
@@ -25,31 +25,6 @@ export default {
   },
   busd: {
     56: '0xe9e7cea3dedca5984780bafc599bd69add087d56',
-    97: '',
-  },
-
-  rpsrs: {
-    56: '0xa1042dF89e1eBfF989d60B6a32B3AcceDf450A03',
-    97: '',
-  },
-  xyz: {
-    56: '0xa93659490d4e73365B4d66c014A2704a60106Bd2',
-    97: '',
-  },
-  pepr: {
-    56: '0x019bE1796178516e060072004F267B59a49A0801',
-    97: '',
-  },
-  pex: {
-    56: '0x63e2dc76e855c36ea7588fecbd564eb51994bcf5',
-    97: '',
-  },
-  pbrl: {
-    56: '0xCf9Ec79dE4080EbEd2a53F66F00fC4a8Da4f2A09',
-    97: '',
-  },
-  dai: {
-    56: '0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3',
     97: '',
   },
 }
